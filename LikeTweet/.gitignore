@@ -1,0 +1,25 @@
+Django files
+*.log
+*.pot
+*.pyc
+pycache/
+media/
+staticfiles/
+
+Bootstrap files
+node_modules/
+bootstrap/dist/css/bootstrap.css
+bootstrap/dist/css/bootstrap.min.css
+bootstrap/dist/js/bootstrap.js
+bootstrap/dist/js/bootstrap.min.js
+
+IDE files
+.vscode/
+.pydevproject
+.project
+.settings/
+
+OS files
+.DS_Store
+Thumbs.db
+
